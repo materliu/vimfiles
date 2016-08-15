@@ -1,3 +1,5 @@
+从伟伟那里fork的一个用来快速给vim安装各种插件的库。
+
 ## Install
 
 * `git clone https://github.com/lyuehh/vimfiles.git ~/.vimfiles/`
